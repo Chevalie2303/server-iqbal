@@ -4,6 +4,6 @@
 {
 	"ip":"iqbalviandra.aternos.me",
 	"port": "17675",
-	"name": "boboserver",
+	"name": "bot",
 	"auto-night-skip":"false"
 }
